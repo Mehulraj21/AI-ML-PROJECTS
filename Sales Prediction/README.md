@@ -1,5 +1,6 @@
 
-ABSTRACT— 
+ABSTRACT
+
 Intelligent Decision Analytical System requires integration of decision analysis and predictions. Most of the business organizations heavily depend on a knowledge
 base and demand prediction of sales trends. The accuracy in sales forecast provides a big impact in business. Data mining techniques are very effective tools in
 extracting hidden knowledge from an enormous dataset to enhance accuracy and efficiency of forecasting. The detailed study and analysis of comprehensible
@@ -26,7 +27,9 @@ of precision. Initial dataset considered in this research had a large number of 
 compared to the original due to the riddance of non-usable data, redundant entries and irrelevant sales data.
 The data mining techniques and predictions methods are discussed in Section I. The review of various literatures about sales forecasts are stated in
 Section II. In Section III, Objectives of sales prediction.In Section IV. The predictive analytics and methodology on sales price also discussed.
+
 II. LITERATURE REVIEW
+
 In this section, we will briefly review the previous studies on sales prediction and several classic prediction models. More than 200 kinds of prediction
 methods have been developed, which can be divided into two categories, subjective and objective methods. [2]
 The subjective prediction method is based on the experience of experts who judge and estimate. It is strongly subjective and flexible. Examples are the
@@ -58,12 +61,16 @@ We built a trigger model system instead of depending on a single model algorithm
 one of the prediction models discussed previously, leading to better prediction results than before. Also, our method can be used for a much larger scale
 of sales prediction. Therefore, we provide a new proposal for sales prediction research, which has been proven to be a significant improvement over past
 methods through our validation.
+
 III. OBJECTIVES
+
 • To predict the future sales.
 • To determine the amount of product that will be required in future.
 • To compare and evaluate the performance of prediction algorithms.
 • To analyze the past sales data
+
 IV. RESEARCH METHODOLOGY
+
 The main purpose of this research is to evaluate and analyze the use of data mining techniques for sales forecasting, to produce models which are
 comprehensive and reliable
 A. Data Collection and Preparation
@@ -74,17 +81,23 @@ dataset had much smaller size compared to the original dataset due to removal of
 B. Exploratory Analysis
 After data preprocessing, in order to clearly understand the nature of our data, an exploratory analysis was conducted [13]. The stages involved in the
 data mining model include data understanding, preparation, modelling, evaluation and deployment
+
 C. Outlier detection
+
 This process performs all necessary data preprocessing and model optimization. Outlier detection process can be used to deploy the model or as a starting
 point for further optimizations and helpful in showing generic information which is independent of the models. The main focus is on the quality of the
 data, especially the quality of each data attributes. Besides, these also consider discarding the data attributes that provide less value.
 Data: the dataset after it has been transformed for modeling.
 Correlations: a matrix showing the correlations between the attributes with a positive correlation on the sales revenue
+
 D. Forecasting and Trends
+
 Trend forecasting is the process of using market research and consumer data to create predictions about customers' future buying habits and preferences.
 Trend forecasting provides product designers with insight that may help them design an item that their target audience likes and purchases.
 International Journal of Research Publication and Reviews, Vol 3, no 8, pp 1887-1890, August 2022 1889
+
 E. PREDICTION
+
 Machine learning techniques can be applied to all disciplines. Machine learning uses statistics to solve many classification and clustering problems. The
 ML algorithms are classified in three categories . They are supervised, unsupervised and semi supervised. In this paper we discussed about three machine
 learning algorithms which can be applied to prediction, like Generalized Linear Model (GLM), Decision Tree (DT) and Gradient Boost Tree (GBT).

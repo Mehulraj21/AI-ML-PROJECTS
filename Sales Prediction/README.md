@@ -1,5 +1,5 @@
 
-ABSTRACT— /n
+ABSTRACT— 
 Intelligent Decision Analytical System requires integration of decision analysis and predictions. Most of the business organizations heavily depend on a knowledge
 base and demand prediction of sales trends. The accuracy in sales forecast provides a big impact in business. Data mining techniques are very effective tools in
 extracting hidden knowledge from an enormous dataset to enhance accuracy and efficiency of forecasting. The detailed study and analysis of comprehensible
@@ -9,7 +9,7 @@ forecast. The various techniques and measures for sales predictions are describe
 a best suited predictive model is suggested for the sales trend forecast. The results are summarized in terms of reliability and accuracy of efficient techniques taken
 for prediction and forecasting. The studies found that the best fit model is Gradient Boost Algorithm, which shows maximum accuracy in forecasting and future
 sales prediction.
-Keywords— Data mining techniques, Machine Learning Algorithms, Prediction, Reliability, Sales forecasting
+
 I. INTRODUCTION
 One of the major objectives of this research work is to find out the reliable sales trend prediction mechanism which is implemented by using data mining
 techniques to achieve the best possible revenue. Today’s business handles huge repository of data. The volume of data is expected to grow further in an
